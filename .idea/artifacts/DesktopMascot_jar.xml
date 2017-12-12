@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DesktopMascot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DesktopMascot_jar</output-path>
+    <root id="archive" name="DesktopMascot.jar">
+      <element id="module-output" name="DesktopMascot" />
+    </root>
+  </artifact>
+</component>
